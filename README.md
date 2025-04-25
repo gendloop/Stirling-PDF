@@ -1,9 +1,9 @@
-# RepoName
+# Stirling-PDF
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/Stirling-PDF
 ```
 
 ## Notes
